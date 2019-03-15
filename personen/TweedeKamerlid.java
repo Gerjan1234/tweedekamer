@@ -7,7 +7,7 @@ import data.Motie.Type;
 import data.Uitspraak;
 
 // aanpassing test voor git
-
+// aanpassing 2
 public class TweedeKamerlid extends Persoon implements Politicus {
 	private String partij;
 	private Random rnd = new Random();
