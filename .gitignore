@@ -1,3 +1,5 @@
 *.ctxt
 *.class
 *.bluej
+*.porject
+*.classpath

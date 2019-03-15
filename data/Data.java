@@ -9,6 +9,7 @@ import personen.TweedeKamerlid;
 
 
 /* TODO optimalisatie (memory-management) */
+//comment 2 met ecplips
 
 public class Data {
     private static Random rnd = new Random();
